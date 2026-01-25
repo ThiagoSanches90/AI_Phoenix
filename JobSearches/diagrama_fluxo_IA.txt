@@ -1,0 +1,59 @@
+                 ┌───────────────────────┐
+                 │     Fontes de dados    │
+                 │  - Notícias (web)     │
+                 │  - Artigos científicos│
+                 │  - Patentes           │
+                 └─────────┬─────────────┘
+                           │
+                           ▼
+                 ┌───────────────────────┐
+                 │  Coleta de dados      │
+                 │  requests, BS4, APIs  │
+                 └─────────┬─────────────┘
+                           │
+                           ▼
+                 ┌───────────────────────┐
+                 │  Armazenamento        │
+                 │  SQLite / MongoDB     │
+                 │  Pandas para tabelas  │
+                 └─────────┬─────────────┘
+                           │
+                           ▼
+                 ┌───────────────────────┐
+                 │ Processamento de texto│
+                 │ - Limpeza (spacy)     │
+                 │ - Tokenização (spacy) │
+                 │ - Extração de palavras│
+                 │   chave (spacy)       │
+                 └─────────┬─────────────┘
+                           │
+                           ▼
+                 ┌───────────────────────┐
+                 │ Resumo / Insights IA  │
+                 │ - transformers        │
+                 │ - openai GPT           │
+                 │ - agno                │
+                 └─────────┬─────────────┘
+                           │
+                           ▼
+                 ┌───────────────────────┐
+                 │ Classificação e análise│
+                 │ - scikit-learn         │
+                 │ - sentence-transformers│
+                 │ - categoria: Solar /  │
+                 │   Motor elétrico      │
+                 └─────────┬─────────────┘
+                           │
+                           ▼
+                 ┌───────────────────────┐
+                 │ Interface / Dashboard │
+                 │ - Streamlit / Gradio  │
+                 │ - Consultas interativas│
+                 └─────────┬─────────────┘
+                           │
+                           ▼
+                 ┌───────────────────────┐
+                 │ Automação / Scheduler │
+                 │ - Python schedule /   │
+                 │   cron (Linux)        │
+                 └───────────────────────┘

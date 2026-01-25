@@ -1,0 +1,33 @@
+♣ Professional experience developed in the areas of testing for development, product engineering, and customer support, aimed at the vehicle and personal tracking equipment sector;
+
+♣ Responsible for testing for firmware homologation of new products under development;
+
+♣ Implementation of test software and support to the production/factory sector;
+
+♣ Technical support to the client in the implementation of the communication protocol for tracking equipment;
+
+♣ Technical responsibility for the demand for new functionalities and firmware improvements passed on by clients;
+
+♣ Participation in the development of new engineering projects;
+
+♣ Preparation of documents intended for internal and external assistance;
+
+♣ Responsible for internal and external training on products or functionalities;
+
+♣ Visits to clients to collect data and analyze equipment with abnormal situations;
+
+♣ Analysis of electronic circuits using instruments such as multimeter, oscilloscope, and signal generator;
+
+♣ Soldering of PTH and SMD electronic components;
+
+♣ Creation of embedded logic in a language developed by engineering;
+
+♣ Analysis and resolution of problems reported by clients;
+
+♣ Monitoring of equipment installations in the field;
+
+♣ Responsible for product support at client sites;
+
+♣ Assembler of electrical panels;
+
+♣ Tester of electrical panels;
